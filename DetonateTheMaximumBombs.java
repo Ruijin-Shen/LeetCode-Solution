@@ -1,7 +1,9 @@
+import java.util.*;
+
 public class DetonateTheMaximumBombs {
 }
 
-class Solution2101 {
+class Solution2101_Warshall {
     public int maximumDetonation(int[][] bombs) {
         // Calculate the adjacency matrix.
         bombs = new int[][]{{1,1,100000}, {100000,100000,1}};
@@ -55,5 +57,54 @@ class Solution2101 {
                 }
             }
         }
+    }
+}
+
+
+class Solution2101_BFS{
+    public int maximumDetonation(int[][] bombs) {
+        int n = bombs.length;
+
+        // 引爆关系有向图
+        HashMap<Integer, List<Integer>> edges = new HashMap<>();
+        for(int i = 0; i < n; i++){
+            List<Integer> list = new ArrayList<>();
+            for(int j = 0; j < n; j++){
+                if(i != j && isConnected(bombs[i], bombs[j])){
+                    list.add(j);
+                }
+            }
+            edges.put(i, list);
+        }
+
+        // BFS遍历
+        Deque<Integer> queue = new LinkedList<>();
+        int result = 0;
+        for(int i = 0; i < n; i++){
+            boolean[] visit = new boolean[n];
+            queue.addLast(i);
+            visit[i] = true;
+            int count = 1;
+
+            while(!queue.isEmpty()){
+                int nextNode = queue.removeFirst();
+                List<Integer> edge = edges.get(nextNode);
+                for(Integer v : edge){
+                    if(!visit[v]){
+                        visit[v] = true;
+                        queue.addLast(v);
+                        count++;
+                    }
+                }
+            }
+            result = Math.max(result, count);
+        }
+        return result;
+    }
+
+    private boolean isConnected(int[] u, int[] v){
+        long dx = u[0] - v[0];
+        long dy = u[1] - v[1];
+        return dx * dx + dy * dy <= (long)u[2] * u[2];
     }
 }

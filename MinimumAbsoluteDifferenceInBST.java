@@ -1,7 +1,7 @@
 public class MinimumAbsoluteDifferenceInBST {
 }
 
-class SolutionTemp {
+class Solution530 {
     private int prevNode;
     private int result;
 

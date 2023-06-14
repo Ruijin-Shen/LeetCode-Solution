@@ -3,6 +3,11 @@ Java solutions for leetcode problems
 
 1. Two Sum
 2. Add Two Numbers
+208. Implement Trie (Prefix Tree)
+228. Summary Ranges
+496. Next Greater Element I
+503. Next Greater Element II
+530. Minimum Absolute Difference in BST
 547. Number of Provinces
 744. Find Smallest Letter Greater Than Target
 1091. Shortest Path in Binary Matrix
@@ -14,3 +19,5 @@ Java solutions for leetcode problems
 2101. Detonate the Maximum Bombs
 2716. Minimize String Length
 2717. Semi-Ordered Permutation
+2733. Neither Minimum nor Maximum
+2734. Lexicographically Smallest String After Substring Operation

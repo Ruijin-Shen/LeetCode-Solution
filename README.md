@@ -53,6 +53,7 @@ Java solutions for leetcode problems
 1091. Shortest Path in Binary Matrix
 1146. Snapshot Array
 1161. Maximum Level Sum of a Binary Tree
+1187. Make Array Strictly Increasing
 1232. Check If It Is a Straight Line
 1318. Minimum Flips to Make a OR b Equal to c
 1351. Count Negative Numbers in a Sorted Matrix
@@ -64,7 +65,13 @@ Java solutions for leetcode problems
 2733. Neither Minimum nor Maximum
 2734. Lexicographically Smallest String After Substring Operation
 
-# Special Topics (2):
+# Special Topics (3):
+
+## Basic Algorithms
+### Sorting algorithm
+* Quicksort
+* Mergesort
+
 ## Number Theory
 ### Combinatorics
 * Combination
@@ -79,4 +86,7 @@ Java solutions for leetcode problems
 ## Graph
 ### Compute the Connectivity Matrix (Warshall Algorithm)
 * 2101 Detonate the Maximum Bombs
+
+## Dynamic Programming
+* 1187 Make Array Strictly Increasing
 

@@ -32,3 +32,32 @@ class Solution486MonotoneStack {
         return result;
     }
 }
+
+
+class Solution496 {
+    public int[] nextGreaterElement(int[] nums1, int[] nums2) {
+        int[] result = new int[nums1.length];
+        int n = nums2.length;
+
+        int[] index = new int[10001];
+        int[] monotonicStack = new int[n];
+        int[] fullResult = new int[n];
+        int stackTop = -1;
+        for(int i = n - 1; i >= 0; i--){
+            int value = nums2[i];
+            index[value] = i;
+            while(stackTop >= 0 && monotonicStack[stackTop] <= value){
+                stackTop--;
+            }
+            if(stackTop >= 0) fullResult[i] = monotonicStack[stackTop];
+            else fullResult[i] = -1;
+            monotonicStack[++stackTop] = value;
+        }
+
+        for(int i = 0; i < nums1.length; i++){
+            result[i] = fullResult[index[nums1[i]]];
+        }
+
+        return result;
+    }
+}

@@ -11,8 +11,8 @@ class Solution2024 {
             if(answerKey.charAt(j) == 'T') Tcount++;
             else Fcount++;
             while(Tcount > k && Fcount > k){
-                if(answerKey.charAt(i++) == 'T') Tcount++;
-                else Fcount++;
+                if(answerKey.charAt(i++) == 'T') Tcount--;
+                else Fcount--;
             }
             result = Math.max(result, j - i + 1);
         }

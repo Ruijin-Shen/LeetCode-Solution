@@ -47,7 +47,7 @@ public class Sort {
         mergeSort(array, left, mid);
         mergeSort(array, mid + 1, right);
 
-        int total = 0, i = left, j = mid + 1;
+        int total = left, i = left, j = mid + 1;
         while(i <= mid && j <= right){
             // <= make the algorithm stable.
             if(array[i] <= array[j]) temp[total++] = array[i++];
@@ -56,8 +56,8 @@ public class Sort {
         while(i <= mid) temp[total++] = array[i++];
         while(j <= right) temp[total++] = array[j++];
 
-        for(int tempIndex = 0, arrIndex = left; arrIndex <= right; tempIndex++, arrIndex++){
-            array[arrIndex] = temp[tempIndex];
+        for(i = left; i <= right; i++){
+            array[i] = temp[i];
         }
     }
 }

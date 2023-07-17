@@ -4,7 +4,7 @@ import java.util.List;
 public class AddTwoNumbersII {
 }
 
-class SolutionT {
+class Solution445 {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         List<Integer> list1 = reverse(l1);
         List<Integer> list2 = reverse(l2);

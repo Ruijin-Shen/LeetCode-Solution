@@ -46,6 +46,9 @@ Java solutions for leetcode problems
 3. Longest Substring Without Repeating Characters
 13. Roman to Integer
 22. Generate Parentheses
+50. Pow(x, n)
+69. Sqrt(x)
+111. Minimum Depth of Binary Tree
 136. Single Number
 137. Single Number II
 150. Evaluate Reverse Polish Notation
@@ -53,9 +56,11 @@ Java solutions for leetcode problems
 207. Course Schedule
 208. Implement Trie (Prefix Tree)
 209. Minimum Size Subarray Sum
+215. Kth Largest Element in an Array
 228. Summary Ranges
 260. Single Number III
 373. Find K Pairs with Smallest Sums
+445. Add Two Numbers II
 493. Reverse Pairs
 496. Next Greater Element I
 503. Next Greater Element II
@@ -71,6 +76,7 @@ Java solutions for leetcode problems
 1232. Check If It Is a Straight Line
 1318. Minimum Flips to Make a OR b Equal to c
 1351. Count Negative Numbers in a Sorted Matrix
+1353. Maximum Number of Events That Can Be Attended
 1493. Longest Subarray of 1's After Deleting One Element
 1502. Can Make Arithmetic Progression From Sequence
 1569. Number of Ways to Reorder Array to Get Same BST
@@ -85,6 +91,7 @@ Java solutions for leetcode problems
 2352. Equal Row and Column Pairs
 2448. Minimum Cost to Make Array Equal
 2462. Total Cost to Hire K Workers
+2551. Put Marbles in Bags
 2716. Minimize String Length
 2717. Semi-Ordered Permutation
 2733. Neither Minimum nor Maximum
@@ -94,14 +101,16 @@ Java solutions for leetcode problems
 2749. Minimum Operations to Make the Integer Zero
 2750. Ways to Split Array Into Good Subarrays
 
-# Special Topics (4):
+# Special Topics (5):
 
 ## Basic Algorithms
 ### Sorting algorithm
 * Quicksort
 * Mergesort
-* 786 第k个数（快速选择算法）
-* 788 逆序对的数量
+* **786 第k个数（快速选择算法）**
+* 215 Kth Largest Element in an Array
+* **788 逆序对的数量**
+* 493 Reverse Pairs
 ### Binary Search Algorithm
 * BinarySearch
 * 789 数的范围
@@ -132,8 +141,14 @@ Java solutions for leetcode problems
 * 503 Next Greater Element II
 ### Queue
 * 829 模拟队列
+### Monotonic Queue
+* 154 滑动窗口
 ### Priority Queue
 ### Circular Queue
+### Knuth-Morris-Pratt Algorithm
+* KMP
+* 28 Find the Index of the First Occurrence in a String
+* 831 KMP字符串
 ### Disjoint-Set Data Structure (Union–Find set)
 * DisjointSet
 * 547 Number of Provinces
@@ -143,6 +158,8 @@ Java solutions for leetcode problems
 ### Combinatorics
 * Combination
 * 1569 Number of Ways to Reorder Array to Get Same BST
+### Binary Exponentiation
+* 50 Pow(x, n)
 
 
 ## Graph
@@ -151,6 +168,8 @@ Java solutions for leetcode problems
 ### Topological Sort
 * 207 Course Schedule
 
-## Dynamic Programming
+## Advanced Algorithms
+# Dynamic Programming
+* 279 Perfect Squares
 * 1187 Make Array Strictly Increasing
 

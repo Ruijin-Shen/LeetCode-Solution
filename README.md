@@ -39,16 +39,23 @@
 
 
 # LeetCode-Solution
-Java solutions for leetcode problems
+Java solutions to leetcode problems
 
 1. Two Sum
 2. Add Two Numbers
 3. Longest Substring Without Repeating Characters
+7. Reverse Integer
 13. Roman to Integer
+14. Longest Common Prefix
+17. Letter Combinations of a Phone Number
+19. Remove Nth Node From End of List
 22. Generate Parentheses
+28. Find the Index of the First Occurrence in a String
 50. Pow(x, n)
+51. N-Queens
 69. Sqrt(x)
 111. Minimum Depth of Binary Tree
+129. Sum Root to Leaf Numbers
 136. Single Number
 137. Single Number II
 150. Evaluate Reverse Polish Notation
@@ -59,6 +66,9 @@ Java solutions for leetcode problems
 215. Kth Largest Element in an Array
 228. Summary Ranges
 260. Single Number III
+279. Perfect Squares
+303. Range Sum Query - Immutable
+304. Range Sum Query 2D - Immutable
 373. Find K Pairs with Smallest Sums
 445. Add Two Numbers II
 493. Reverse Pairs
@@ -67,9 +77,11 @@ Java solutions for leetcode problems
 530. Minimum Absolute Difference in BST
 547. Number of Provinces
 744. Find Smallest Letter Greater Than Target
+852. Peak Index in a Mountain Array
 859. Buddy Strings
 956. Tallest Billboard
 1091. Shortest Path in Binary Matrix
+1109. Corporate Flight Bookings
 1146. Snapshot Array
 1161. Maximum Level Sum of a Binary Tree
 1187. Make Array Strictly Increasing
@@ -84,6 +96,8 @@ Java solutions for leetcode problems
 1601. Maximum Number of Achievable Transfer Requests
 1732. Find the Highest Altitude
 1802. Maximum Value at a Given Index in a Bounded Array
+1870. Minimum Speed to Arrive on Time
+2013. Detect Squares
 2024. Maximize the Confusion of an Exam
 2090. K Radius Subarray Averages
 2101. Detonate the Maximum Bombs
@@ -91,6 +105,7 @@ Java solutions for leetcode problems
 2352. Equal Row and Column Pairs
 2448. Minimum Cost to Make Array Equal
 2462. Total Cost to Hire K Workers
+2536. Increment Submatrices by One
 2551. Put Marbles in Bags
 2716. Minimize String Length
 2717. Semi-Ordered Permutation
@@ -117,13 +132,21 @@ Java solutions for leetcode problems
 * **790 数的三次方根**
 ### Prefix Sum and Difference
 * **795 前缀和**
+* 303 Range Sum Query - Immutable
 * **796 子矩阵的和**
+* 304 Range Sum Query 2D - Immutable
 * **797 差分**
+* 1109 Corporate Flight Bookings
 * **798 差分矩阵**
+* 2536 Increment Submatrices by One
 ### Two-Pointer Technique
 * 799 最长连续不重复子序列
 * 800 数组元素的目标和
 * 2024 Maximize the Confusion of an Exam
+### Knuth-Morris-Pratt Algorithm
+* KMP
+* 28 Find the Index of the First Occurrence in a String
+* 831 KMP字符串
 ### Bitwise Operation
 * 求n的第k位数字（k从0开始） ```n >> k & 1```
 * ```lowbit(n) = n & -n;```
@@ -143,15 +166,13 @@ Java solutions for leetcode problems
 * 829 模拟队列
 ### Monotonic Queue
 * 154 滑动窗口
-### Priority Queue
 ### Circular Queue
-### Knuth-Morris-Pratt Algorithm
-* KMP
-* 28 Find the Index of the First Occurrence in a String
-* 831 KMP字符串
+### Trie
+* Trie
 ### Disjoint-Set Data Structure (Union–Find set)
 * DisjointSet
 * 547 Number of Provinces
+### Heap & Priority Queue
 
 
 ## Number Theory

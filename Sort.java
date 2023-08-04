@@ -5,8 +5,11 @@ public class Sort {
         quickSort(array, 0, array.length - 1);
     }
 
-    // Time Complexity: average O(NlogN), best O(NlogN), worst O(N^2).
-    // Quicksort is not stable, meaning that the relative order of equal sort items is not preserved.
+    /**
+     * <p> Time complexity: average O(NlogN), best O(NlogN), worst O(N^2).
+     * <p> Quicksort is not stable, meaning that the relative order
+     * of equal sort items is not preserved.
+     */
     public static void quickSort(int[] array, int left, int right){
         if(left >= right) return;
 
@@ -37,9 +40,13 @@ public class Sort {
         mergeSort(array, 0, array.length - 1);
     }
 
-    // Time Complexity: O(NlogN).
-    // Mergesort is stable, meaning that the relative order of equal sort items is preserved.
-    // Mergesort requires additional memory equal to the original array.
+    /**
+     * <p> Time Complexity: O(NlogN).
+     * <p> Space Complexity: O(N).
+     * <p> Mergesort is stable, meaning that the relative order of
+     * equal sort items is preserved. Mergesort requires additional
+     * memory equal to the original array.
+     */
     public static void mergeSort(int[] array, int left, int right){
         if(left >= right) return;
 

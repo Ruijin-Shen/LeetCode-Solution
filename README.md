@@ -54,6 +54,7 @@ Java solutions to leetcode problems
 50. Pow(x, n)
 51. N-Queens
 69. Sqrt(x)
+77. Combinations
 111. Minimum Depth of Binary Tree
 129. Sum Root to Leaf Numbers
 136. Single Number
@@ -84,6 +85,7 @@ Java solutions to leetcode problems
 1109. Corporate Flight Bookings
 1146. Snapshot Array
 1161. Maximum Level Sum of a Binary Tree
+1171. Remove Zero Sum Consecutive Nodes from Linked List
 1187. Make Array Strictly Increasing
 1232. Check If It Is a Straight Line
 1318. Minimum Flips to Make a OR b Equal to c
@@ -116,7 +118,7 @@ Java solutions to leetcode problems
 2749. Minimum Operations to Make the Integer Zero
 2750. Ways to Split Array Into Good Subarrays
 
-# Special Topics (5):
+# Special Topics (4):
 
 ## Basic Algorithms
 ### Sorting algorithm

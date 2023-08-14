@@ -24,7 +24,7 @@ class Solution215QuickSelect {
             }
         }
 
-        if(k <= j) return quickSelect(nums, left, j, k);
-        else return quickSelect(nums, j + 1, right, k);
+        if(left + k <= j) return quickSelect(nums, left, j, k);
+        else return quickSelect(nums, j + 1, right, k - j + left - 1);
     }
 }

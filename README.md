@@ -51,21 +51,28 @@ Java solutions to leetcode problems
 19. Remove Nth Node From End of List
 22. Generate Parentheses
 28. Find the Index of the First Occurrence in a String
+33. Search in Rotated Sorted Array
 50. Pow(x, n)
 51. N-Queens
+62. Unique Paths
+63. Unique Paths II
 69. Sqrt(x)
+74. Search a 2D Matrix
 77. Combinations
+78. Search in Rotated Sorted Array II
 111. Minimum Depth of Binary Tree
 129. Sum Root to Leaf Numbers
 136. Single Number
 137. Single Number II
 150. Evaluate Reverse Polish Notation
+168. Excel Sheet Column Title
 199. Binary Tree Right Side View
 207. Course Schedule
 208. Implement Trie (Prefix Tree)
 209. Minimum Size Subarray Sum
 215. Kth Largest Element in an Array
 228. Summary Ranges
+240. Search a 2D Matrix II
 260. Single Number III
 279. Perfect Squares
 303. Range Sum Query - Immutable
@@ -105,10 +112,12 @@ Java solutions to leetcode problems
 2101. Detonate the Maximum Bombs
 2305. Fair Distribution of Cookies
 2352. Equal Row and Column Pairs
+2369. Check if There is a Valid Partition For The Array
 2448. Minimum Cost to Make Array Equal
 2462. Total Cost to Hire K Workers
 2536. Increment Submatrices by One
 2551. Put Marbles in Bags
+2616. Minimize the Maximum Difference of Pairs
 2716. Minimize String Length
 2717. Semi-Ordered Permutation
 2733. Neither Minimum nor Maximum
@@ -117,6 +126,11 @@ Java solutions to leetcode problems
 2748. Number of Beautiful Pairs
 2749. Minimum Operations to Make the Integer Zero
 2750. Ways to Split Array Into Good Subarrays
+2806. Account Balance After Rounded Purchase
+2807. Insert Greatest Common Divisors in Linked List
+2808. Minimum Seconds to Equalize a Circular Array
+2810. Faulty Keyboard
+2811. Check if it is Possible to Split Array
 
 # Special Topics (4):
 
@@ -162,6 +176,7 @@ Java solutions to leetcode problems
 * 828 模拟栈
 * 150 Evaluate Reverse Polish Notation
 ### Monotonic Stack
+* 
 * 496 Next Greater Element I
 * 503 Next Greater Element II
 ### Queue

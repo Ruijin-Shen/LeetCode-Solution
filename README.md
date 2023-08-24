@@ -52,6 +52,7 @@ Java solutions to leetcode problems
 22. Generate Parentheses
 28. Find the Index of the First Occurrence in a String
 33. Search in Rotated Sorted Array
+46. Permutations
 50. Pow(x, n)
 51. N-Queens
 62. Unique Paths
@@ -64,6 +65,7 @@ Java solutions to leetcode problems
 129. Sum Root to Leaf Numbers
 136. Single Number
 137. Single Number II
+139. Word Break
 150. Evaluate Reverse Polish Notation
 168. Excel Sheet Column Title
 199. Binary Tree Right Side View
@@ -78,6 +80,7 @@ Java solutions to leetcode problems
 303. Range Sum Query - Immutable
 304. Range Sum Query 2D - Immutable
 373. Find K Pairs with Smallest Sums
+378. Kth Smallest Element in a Sorted Matrix
 445. Add Two Numbers II
 493. Reverse Pairs
 496. Next Greater Element I
@@ -85,8 +88,10 @@ Java solutions to leetcode problems
 530. Minimum Absolute Difference in BST
 547. Number of Provinces
 744. Find Smallest Letter Greater Than Target
+767. Reorganize String
 852. Peak Index in a Mountain Array
 859. Buddy Strings
+898. Bitwise ORs of Subarrays
 956. Tallest Billboard
 1091. Shortest Path in Binary Matrix
 1109. Corporate Flight Bookings

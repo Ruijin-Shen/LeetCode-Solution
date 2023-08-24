@@ -57,6 +57,7 @@ Java solutions to leetcode problems
 51. N-Queens
 62. Unique Paths
 63. Unique Paths II
+68. Text Justification
 69. Sqrt(x)
 74. Search a 2D Matrix
 77. Combinations
@@ -72,6 +73,7 @@ Java solutions to leetcode problems
 207. Course Schedule
 208. Implement Trie (Prefix Tree)
 209. Minimum Size Subarray Sum
+214. Shortest Palindrome
 215. Kth Largest Element in an Array
 228. Summary Ranges
 240. Search a 2D Matrix II
@@ -90,6 +92,7 @@ Java solutions to leetcode problems
 744. Find Smallest Letter Greater Than Target
 767. Reorganize String
 852. Peak Index in a Mountain Array
+858. Mirror Reflection
 859. Buddy Strings
 898. Bitwise ORs of Subarrays
 956. Tallest Billboard
@@ -108,6 +111,7 @@ Java solutions to leetcode problems
 1569. Number of Ways to Reorder Array to Get Same BST
 1575. Count All Possible Routes
 1601. Maximum Number of Achievable Transfer Requests
+1711. Count Good Meals
 1732. Find the Highest Altitude
 1802. Maximum Value at a Given Index in a Bounded Array
 1870. Minimum Speed to Arrive on Time

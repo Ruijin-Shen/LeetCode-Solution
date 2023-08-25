@@ -34,7 +34,7 @@ class Solution1659 {
         long rightCount = helper(right);
 
 
-        long result = ((leftCount * rightCount) % (1000000007) * combination.compute(left.size()+right.size(), left.size())) % (1000000007);
+        long result = ((leftCount * rightCount) % (1000000007) * combination.combination(left.size()+right.size(), left.size())) % (1000000007);
         return result;
     }
 }

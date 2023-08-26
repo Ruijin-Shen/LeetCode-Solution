@@ -145,6 +145,10 @@ Java solutions to leetcode problems
 2810. Faulty Keyboard
 2811. Check if it is Possible to Split Array
 
+MySQL solutions to leetcode problems
+175. Combine Two Tables
+
+
 # Special Topics (4):
 
 ## Basic Algorithms

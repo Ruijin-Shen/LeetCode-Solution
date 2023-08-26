@@ -52,6 +52,8 @@ Java solutions to leetcode problems
 22. Generate Parentheses
 28. Find the Index of the First Occurrence in a String
 33. Search in Rotated Sorted Array
+39. Combination Sum
+42. Trapping Rain Water
 46. Permutations
 50. Pow(x, n)
 51. N-Queens
@@ -62,6 +64,7 @@ Java solutions to leetcode problems
 74. Search a 2D Matrix
 77. Combinations
 78. Search in Rotated Sorted Array II
+97. Interleaving String
 111. Minimum Depth of Binary Tree
 129. Sum Root to Leaf Numbers
 136. Single Number
@@ -89,6 +92,7 @@ Java solutions to leetcode problems
 503. Next Greater Element II
 530. Minimum Absolute Difference in BST
 547. Number of Provinces
+646. Maximum Length of Pair Chain
 744. Find Smallest Letter Greater Than Target
 767. Reorganize String
 852. Peak Index in a Mountain Array
@@ -185,7 +189,7 @@ Java solutions to leetcode problems
 * 828 模拟栈
 * 150 Evaluate Reverse Polish Notation
 ### Monotonic Stack
-* 
+* 830 单调栈
 * 496 Next Greater Element I
 * 503 Next Greater Element II
 ### Queue

@@ -86,12 +86,14 @@ Java solutions to leetcode problems
 304. Range Sum Query 2D - Immutable
 373. Find K Pairs with Smallest Sums
 378. Kth Smallest Element in a Sorted Matrix
+403. Frog Jump
 445. Add Two Numbers II
 493. Reverse Pairs
 496. Next Greater Element I
 503. Next Greater Element II
 530. Minimum Absolute Difference in BST
 547. Number of Provinces
+556. Next Greater Element III
 646. Maximum Length of Pair Chain
 744. Find Smallest Letter Greater Than Target
 767. Reorganize String
@@ -144,6 +146,8 @@ Java solutions to leetcode problems
 2808. Minimum Seconds to Equalize a Circular Array
 2810. Faulty Keyboard
 2811. Check if it is Possible to Split Array
+2833. Furthest Point From Origin
+2834. Find the Minimum Possible Sum of a Beautiful Array
 
 MySQL solutions to leetcode problems  
 

@@ -50,6 +50,8 @@ Java solutions to leetcode problems
 17. Letter Combinations of a Phone Number
 19. Remove Nth Node From End of List
 22. Generate Parentheses
+26. Remove Duplicates from Sorted Array
+27. Remove Element
 28. Find the Index of the First Occurrence in a String
 33. Search in Rotated Sorted Array
 39. Combination Sum
@@ -64,20 +66,25 @@ Java solutions to leetcode problems
 74. Search a 2D Matrix
 77. Combinations
 78. Search in Rotated Sorted Array II
+80. Remove Duplicates from Sorted Array II
+88. Merge Sorted Array
 97. Interleaving String
 111. Minimum Depth of Binary Tree
+121. Best Time to Buy and Sell Stock
 129. Sum Root to Leaf Numbers
 136. Single Number
 137. Single Number II
 139. Word Break
 150. Evaluate Reverse Polish Notation
 168. Excel Sheet Column Title
+169. Majority Element
 199. Binary Tree Right Side View
 207. Course Schedule
 208. Implement Trie (Prefix Tree)
 209. Minimum Size Subarray Sum
 214. Shortest Palindrome
 215. Kth Largest Element in an Array
+225. Implement Stack using Queues
 228. Summary Ranges
 240. Search a 2D Matrix II
 260. Single Number III
@@ -152,6 +159,7 @@ Java solutions to leetcode problems
 MySQL solutions to leetcode problems  
 
 175. Combine Two Tables
+176. Second Highest Salary
 
 
 # Special Topics (4):

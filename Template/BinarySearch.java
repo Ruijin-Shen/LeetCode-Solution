@@ -1,3 +1,5 @@
+package Template;
+
 import java.io.BufferedReader;
 import java.util.function.Predicate;
 

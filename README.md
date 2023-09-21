@@ -54,11 +54,13 @@ Java solutions to leetcode problems
 27. Remove Element
 28. Find the Index of the First Occurrence in a String
 33. Search in Rotated Sorted Array
-39. Combination Sum
+39. Template.Combination Sum
 42. Trapping Rain Water
+45. Jump Game II
 46. Permutations
 50. Pow(x, n)
 51. N-Queens
+55. Jump Game
 62. Unique Paths
 63. Unique Paths II
 68. Text Justification
@@ -71,6 +73,7 @@ Java solutions to leetcode problems
 97. Interleaving String
 111. Minimum Depth of Binary Tree
 121. Best Time to Buy and Sell Stock
+122. Best Time to Buy and Sell Stock II
 129. Sum Root to Leaf Numbers
 136. Single Number
 137. Single Number II
@@ -80,7 +83,7 @@ Java solutions to leetcode problems
 169. Majority Element
 199. Binary Tree Right Side View
 207. Course Schedule
-208. Implement Trie (Prefix Tree)
+208. Implement Template.Trie (Prefix Tree)
 209. Minimum Size Subarray Sum
 214. Shortest Palindrome
 215. Kth Largest Element in an Array
@@ -88,6 +91,7 @@ Java solutions to leetcode problems
 228. Summary Ranges
 240. Search a 2D Matrix II
 260. Single Number III
+274. H-Index
 279. Perfect Squares
 303. Range Sum Query - Immutable
 304. Range Sum Query 2D - Immutable
@@ -156,10 +160,52 @@ Java solutions to leetcode problems
 2833. Furthest Point From Origin
 2834. Find the Minimum Possible Sum of a Beautiful Array
 
-MySQL solutions to leetcode problems  
+MySQL solutions to Leetcode database problems  
 
 175. Combine Two Tables
 176. Second Highest Salary
+180. Consecutive Numbers
+196. Delete Duplicate Emails
+197. Rising Temperature
+550. Game Play Analysis IV
+570. Managers with at Least 5 Direct Reports
+577. Employee Bonus
+584. Find Customer Referee
+595. Big Countries
+596. Classes More Than 5 Students
+610. Triangle Judgement
+619. Biggest Single Number
+620. Not Boring Movies
+1045. Customers Who Bought All Products
+1068. Product Sales Analysis I
+1070. Product Sales Analysis III
+1075. Project Employees I
+1141. User Activity for the Past 30 Days I
+1148. Article Views I
+1164. Product Price at a Given Date
+1174. Immediate Food Delivery II
+1193. Monthly Transactions I
+1204. Last Person to Fit in the Bus
+1211. Queries Quality and Percentage
+1251. Average Selling Price
+1280. Students and Examinations
+1327. List the Products Ordered in a Period
+1378. Replace Employee ID With The Unique Identifier
+1484. Group Sold Products By The Date
+1517. Find Users With Valid E-Mails
+1527. Patients With a Condition
+1581. Customer Who Visited but Did Not Make Any Transactions
+1633. Percentage of Users Attended a Contest
+1661. Average Time of Process per Machine
+1667. Fix Names in a Table
+1683. Invalid Tweets
+1729. Find Followers Count
+1731. The Number of Employees Which Report to Each Employee
+1789. Primary Department for Each Employee
+1757. Recyclable and Low Fat Products
+1907. Count Salary Categories
+1934. Confirmation Rate
+2356. Number of Unique Subjects Taught by Each Teacher
 
 
 # Special Topics (4):
@@ -214,10 +260,10 @@ MySQL solutions to leetcode problems
 ### Monotonic Queue
 * 154 滑动窗口
 ### Circular Queue
-### Trie
-* Trie
+### Template.Trie
+* Template.Trie
 ### Disjoint-Set Data Structure (Union–Find set)
-* DisjointSet
+* Template.DisjointSet
 * 547 Number of Provinces
 ### Heap & Priority Queue
 
@@ -233,7 +279,7 @@ MySQL solutions to leetcode problems
 ## Graph
 ### Compute the Connectivity Matrix (Warshall Algorithm)
 * 2101 Detonate the Maximum Bombs
-### Topological Sort
+### Topological Template.Sort
 * 207 Course Schedule
 
 ## Advanced Algorithms

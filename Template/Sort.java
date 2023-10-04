@@ -1,5 +1,20 @@
 package Template;
 
+/**
+ * Sorting Algorithm    Time Complexity
+ * Insertion Sort       worst: O(n^2)
+ *                      best: O(n)
+ *                      average: O(n^2)
+ * Selection Sort       worst: O(n^2)
+ *                      best: O(n^2)
+ *                      average: O(n^2)
+ * Quick Sort           worst: O(n^2)
+ *                      best: O(nlogn)
+ *                      average: O(nlogn)
+ * Merge Sort           worst: O(nlogn)
+ *                      best: O(nlogn)
+ *                      average: O(nlogn)
+ */
 public class Sort {
     private static int[] temp = new int[10000];
 

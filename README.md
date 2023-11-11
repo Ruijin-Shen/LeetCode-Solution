@@ -45,6 +45,7 @@ Java solutions to leetcode problems
 2. Add Two Numbers
 3. Longest Substring Without Repeating Characters
 7. Reverse Integer
+12. Integer to Roman
 13. Roman to Integer
 14. Longest Common Prefix
 17. Letter Combinations of a Phone Number
@@ -54,13 +55,16 @@ Java solutions to leetcode problems
 27. Remove Element
 28. Find the Index of the First Occurrence in a String
 33. Search in Rotated Sorted Array
+36. Valid Sudoku
 39. Template.Combination Sum
 42. Trapping Rain Water
 45. Jump Game II
 46. Permutations
+49. Group Anagrams
 50. Pow(x, n)
 51. N-Queens
 55. Jump Game
+58. Length of Last Word
 62. Unique Paths
 63. Unique Paths II
 68. Text Justification
@@ -71,32 +75,51 @@ Java solutions to leetcode problems
 80. Remove Duplicates from Sorted Array II
 88. Merge Sorted Array
 97. Interleaving String
+100. Same Tree
+104. Maximum Depth of Binary Tree
+105. Construct Binary Tree from Preorder and Inorder Traversal
 111. Minimum Depth of Binary Tree
+112. Path Sum
+117. Populating Next Right Pointers in Each Node II
 121. Best Time to Buy and Sell Stock
 122. Best Time to Buy and Sell Stock II
+125. Valid Palindrome
+128. Longest Consecutive Sequence
 129. Sum Root to Leaf Numbers
+134. Gas Station
 136. Single Number
 137. Single Number II
 139. Word Break
 150. Evaluate Reverse Polish Notation
+151. Reverse Words in a String
+167. Two Sum II - Input Array Is Sorted
 168. Excel Sheet Column Title
 169. Majority Element
+183. Customers Who Never Order
 199. Binary Tree Right Side View
+205. Isomorphic Strings
 207. Course Schedule
 208. Implement Template.Trie (Prefix Tree)
 209. Minimum Size Subarray Sum
 214. Shortest Palindrome
 215. Kth Largest Element in an Array
 225. Implement Stack using Queues
+226. Invert Binary Tree
 228. Summary Ranges
+238. Product of Array Except Self
+239. Sliding Window Maximum
 240. Search a 2D Matrix II
+242. Valid Anagram
 260. Single Number III
 274. H-Index
 279. Perfect Squares
+290. Word Pattern
 303. Range Sum Query - Immutable
 304. Range Sum Query 2D - Immutable
 373. Find K Pairs with Smallest Sums
 378. Kth Smallest Element in a Sorted Matrix
+380. Insert Delete GetRandom O(1)
+383. Ransom Note
 403. Frog Jump
 445. Add Two Numbers II
 493. Reverse Pairs
@@ -106,6 +129,7 @@ Java solutions to leetcode problems
 547. Number of Provinces
 556. Next Greater Element III
 646. Maximum Length of Pair Chain
+729. My Calendar I
 744. Find Smallest Letter Greater Than Target
 767. Reorganize String
 852. Peak Index in a Mountain Array
@@ -128,6 +152,7 @@ Java solutions to leetcode problems
 1569. Number of Ways to Reorder Array to Get Same BST
 1575. Count All Possible Routes
 1601. Maximum Number of Achievable Transfer Requests
+1607. Sellers With No Sales
 1711. Count Good Meals
 1732. Find the Highest Altitude
 1802. Maximum Value at a Given Index in a Bounded Array
@@ -159,9 +184,12 @@ Java solutions to leetcode problems
 2811. Check if it is Possible to Split Array
 2833. Furthest Point From Origin
 2834. Find the Minimum Possible Sum of a Beautiful Array
+2923. Find Champion I
+2924. Find Champion II
+2925. Maximum Score After Applying Operations on a Tree
 
 MySQL solutions to Leetcode database problems  
-
+0. SQL
 175. Combine Two Tables
 176. Second Highest Salary
 180. Consecutive Numbers
@@ -180,6 +208,7 @@ MySQL solutions to Leetcode database problems
 1068. Product Sales Analysis I
 1070. Product Sales Analysis III
 1075. Project Employees I
+1112. Highest Grade For Each Student
 1141. User Activity for the Past 30 Days I
 1148. Article Views I
 1164. Product Price at a Given Date
@@ -191,6 +220,7 @@ MySQL solutions to Leetcode database problems
 1280. Students and Examinations
 1327. List the Products Ordered in a Period
 1378. Replace Employee ID With The Unique Identifier
+1398. Customers Who Bought Products A and B but Not C
 1484. Group Sold Products By The Date
 1517. Find Users With Valid E-Mails
 1527. Patients With a Condition
@@ -203,6 +233,8 @@ MySQL solutions to Leetcode database problems
 1731. The Number of Employees Which Report to Each Employee
 1789. Primary Department for Each Employee
 1757. Recyclable and Low Fat Products
+1821. Find Customers With Positive Revenue this Year
+1873. Calculate Special Bonus
 1907. Count Salary Categories
 1934. Confirmation Rate
 2356. Number of Unique Subjects Taught by Each Teacher
@@ -259,11 +291,13 @@ MySQL solutions to Leetcode database problems
 * 829 模拟队列
 ### Monotonic Queue
 * 154 滑动窗口
+* 239 Sliding Window Maximum
 ### Circular Queue
-### Template.Trie
-* Template.Trie
+
+### Trie
+* Trie
 ### Disjoint-Set Data Structure (Union–Find set)
-* Template.DisjointSet
+* DisjointSet
 * 547 Number of Provinces
 ### Heap & Priority Queue
 
@@ -271,6 +305,7 @@ MySQL solutions to Leetcode database problems
 ## Number Theory
 ### Combinatorics
 * Combination
+* Permutation
 * 1569 Number of Ways to Reorder Array to Get Same BST
 ### Binary Exponentiation
 * 50 Pow(x, n)
@@ -279,8 +314,10 @@ MySQL solutions to Leetcode database problems
 ## Graph
 ### Compute the Connectivity Matrix (Warshall Algorithm)
 * 2101 Detonate the Maximum Bombs
-### Topological Template.Sort
+### Topological Sort
 * 207 Course Schedule
+### Dijkstra Algorithm
+
 
 ## Advanced Algorithms
 # Dynamic Programming

@@ -45,6 +45,7 @@ Java solutions to leetcode problems
 2. Add Two Numbers
 3. Longest Substring Without Repeating Characters
 7. Reverse Integer
+11. Container With Most Water
 12. Integer to Roman
 13. Roman to Integer
 14. Longest Common Prefix
@@ -63,8 +64,11 @@ Java solutions to leetcode problems
 49. Group Anagrams
 50. Pow(x, n)
 51. N-Queens
+52. N-Queens II
 55. Jump Game
+56. Merge Intervals
 58. Length of Last Word
+61. Rotate List
 62. Unique Paths
 63. Unique Paths II
 68. Text Justification
@@ -73,9 +77,14 @@ Java solutions to leetcode problems
 77. Combinations
 78. Search in Rotated Sorted Array II
 80. Remove Duplicates from Sorted Array II
+82. Remove Duplicates from Sorted List II
 88. Merge Sorted Array
+92. Reverse Linked List II
 97. Interleaving String
+98. Validate Binary Search Tree
 100. Same Tree
+102. Binary Tree Level Order Traversal
+103. Binary Tree Zigzag Level Order Traversal
 104. Maximum Depth of Binary Tree
 105. Construct Binary Tree from Preorder and Inorder Traversal
 111. Minimum Depth of Binary Tree
@@ -83,20 +92,26 @@ Java solutions to leetcode problems
 117. Populating Next Right Pointers in Each Node II
 121. Best Time to Buy and Sell Stock
 122. Best Time to Buy and Sell Stock II
+124. Binary Tree Maximum Path Sum
 125. Valid Palindrome
 128. Longest Consecutive Sequence
 129. Sum Root to Leaf Numbers
 134. Gas Station
 136. Single Number
 137. Single Number II
+138. Copy List with Random Pointer
 139. Word Break
 150. Evaluate Reverse Polish Notation
 151. Reverse Words in a String
+162. Find Peak Element
 167. Two Sum II - Input Array Is Sorted
 168. Excel Sheet Column Title
 169. Majority Element
+173. Binary Search Tree Iterator
 183. Customers Who Never Order
 199. Binary Tree Right Side View
+200. Number of Islands
+201. Bitwise AND of Numbers Range
 205. Isomorphic Strings
 207. Course Schedule
 208. Implement Template.Trie (Prefix Tree)
@@ -106,22 +121,26 @@ Java solutions to leetcode problems
 225. Implement Stack using Queues
 226. Invert Binary Tree
 228. Summary Ranges
+230. Kth Smallest Element in a BST
 238. Product of Array Except Self
 239. Sliding Window Maximum
 240. Search a 2D Matrix II
 242. Valid Anagram
+289. Game of Life
 260. Single Number III
 274. H-Index
 279. Perfect Squares
 290. Word Pattern
 303. Range Sum Query - Immutable
 304. Range Sum Query 2D - Immutable
+322. Coin Change
 373. Find K Pairs with Smallest Sums
 378. Kth Smallest Element in a Sorted Matrix
 380. Insert Delete GetRandom O(1)
 383. Ransom Note
 403. Frog Jump
 445. Add Two Numbers II
+452. Minimum Number of Arrows to Burst Balloons
 493. Reverse Pairs
 496. Next Greater Element I
 503. Next Greater Element II
@@ -252,6 +271,7 @@ MySQL solutions to Leetcode database problems
 * 493 Reverse Pairs
 ### Binary Search Algorithm
 * BinarySearch
+* 162 Find Peak Element
 * 789 数的范围
 * **790 数的三次方根**
 ### Prefix Sum and Difference
@@ -267,6 +287,7 @@ MySQL solutions to Leetcode database problems
 * 799 最长连续不重复子序列
 * 800 数组元素的目标和
 * 2024 Maximize the Confusion of an Exam
+* 11 Container With Most Water
 ### Knuth-Morris-Pratt Algorithm
 * KMP
 * 28 Find the Index of the First Occurrence in a String

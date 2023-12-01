@@ -1,3 +1,5 @@
+import Definition.ListNode;
+
 import java.util.*;
 
 public class RemoveZeroSumConsecutiveNodesFromLinkedList {

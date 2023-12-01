@@ -1,3 +1,5 @@
+package Solution.A;
+
 public class AccountBalanceAfterRoundedPurchase {
 }
 

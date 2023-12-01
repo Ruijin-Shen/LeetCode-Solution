@@ -1,3 +1,5 @@
+package Solution.G;
+
 public class GameOfLife {
 }
 

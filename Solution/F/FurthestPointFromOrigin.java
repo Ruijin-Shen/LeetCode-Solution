@@ -1,3 +1,5 @@
+package Solution.F;
+
 public class FurthestPointFromOrigin {
 }
 

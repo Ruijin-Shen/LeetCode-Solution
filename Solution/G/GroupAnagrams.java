@@ -1,3 +1,5 @@
+package Solution.G;
+
 import java.util.*;
 
 public class GroupAnagrams {

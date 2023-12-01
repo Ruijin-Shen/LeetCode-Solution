@@ -1,3 +1,5 @@
+package Solution.H;
+
 import java.util.*;
 
 public class HIndex {

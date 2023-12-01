@@ -1,3 +1,5 @@
+package Solution.F;
+
 import java.util.*;
 
 public class FrogJump {

@@ -55,12 +55,14 @@ Java solutions to leetcode problems
 26. Remove Duplicates from Sorted Array
 27. Remove Element
 28. Find the Index of the First Occurrence in a String
+30. Substring with Concatenation of All Words
 33. Search in Rotated Sorted Array
 36. Valid Sudoku
 39. Template.Combination Sum
 42. Trapping Rain Water
 45. Jump Game II
 46. Permutations
+48. Rotate Image
 49. Group Anagrams
 50. Pow(x, n)
 51. N-Queens
@@ -80,6 +82,8 @@ Java solutions to leetcode problems
 82. Remove Duplicates from Sorted List II
 88. Merge Sorted Array
 92. Reverse Linked List II
+94. Binary Tree Inorder Traversal
+95. Unique Binary Search Trees II
 97. Interleaving String
 98. Validate Binary Search Tree
 100. Same Tree

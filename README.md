@@ -151,9 +151,11 @@ Java solutions to leetcode problems
 729. My Calendar I
 744. Find Smallest Letter Greater Than Target
 767. Reorganize String
+802. Find Eventual Safe States
 852. Peak Index in a Mountain Array
 858. Mirror Reflection
 859. Buddy Strings
+863. All Nodes Distance K in Binary Tree
 898. Bitwise ORs of Subarrays
 956. Tallest Billboard
 1091. Shortest Path in Binary Matrix
@@ -162,6 +164,7 @@ Java solutions to leetcode problems
 1161. Maximum Level Sum of a Binary Tree
 1171. Remove Zero Sum Consecutive Nodes from Linked List
 1187. Make Array Strictly Increasing
+1218. Longest Arithmetic Subsequence of Given Difference
 1232. Check If It Is a Straight Line
 1318. Minimum Flips to Make a OR b Equal to c
 1351. Count Negative Numbers in a Sorted Matrix
@@ -181,6 +184,7 @@ Java solutions to leetcode problems
 2090. K Radius Subarray Averages
 2101. Detonate the Maximum Bombs
 2305. Fair Distribution of Cookies
+2328. Number of Increasing Paths in a Grid
 2352. Equal Row and Column Pairs
 2369. Check if There is a Valid Partition For The Array
 2448. Minimum Cost to Make Array Equal

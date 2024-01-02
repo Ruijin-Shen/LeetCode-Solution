@@ -1,3 +1,5 @@
+package Solution.W;
+
 import java.util.*;
 public class WordPattern {
 }

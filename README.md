@@ -178,8 +178,7 @@
 2924. Find Champion II
 2925. Maximum Score After Applying Operations on a Tree
 
-## MySQL solutions to Leetcode database problems  
-1. SQL
+## MySQL solutions to Leetcode database problems
 175. Combine Two Tables
 176. Second Highest Salary
 180. Consecutive Numbers

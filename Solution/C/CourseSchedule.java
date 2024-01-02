@@ -35,3 +35,36 @@ class Solution207TopologicalSort {
         return count == numCourses;
     }
 }
+
+class Solution207DFS {
+    private static final int VISITING = -1;
+    private static final int VISITED = 1;
+
+    public boolean canFinish(int numCourses, int[][] prerequisites) {
+        ArrayList<List<Integer>> prereq = new ArrayList<>(numCourses);
+        for(int i = 0; i < numCourses; i++){
+            prereq.add(new ArrayList<>());
+        }
+        for(int[] pair : prerequisites){
+            prereq.get(pair[0]).add(pair[1]);
+        }
+
+        int[] visited = new int[numCourses];
+        for(int i = 0; i < numCourses; i++){
+            if(!take(i, prereq, visited)) return false;
+        }
+        return true;
+    }
+
+    private boolean take(int course, ArrayList<List<Integer>> prereq, int[] visited){
+        if(visited[course] == VISITED) return true;
+        if(visited[course] == VISITING) return false;
+
+        visited[course] = VISITING;
+        for(int prev : prereq.get(course)){
+            if(!take(prev, prereq, visited)) return false;
+        }
+        visited[course] = VISITED;
+        return true;
+    }
+}

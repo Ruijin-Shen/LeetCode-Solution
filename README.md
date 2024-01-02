@@ -1,45 +1,5 @@
-<style type="text/css">
-    h1 { counter-reset: h2counter; }
-    h2 { counter-reset: h3counter; }
-    h3 { counter-reset: h4counter; }
-    h4 { counter-reset: h5counter; }
-    h5 { counter-reset: h6counter; }
-    h6 { }
-    h2:before {
-      counter-increment: h2counter;
-      content: counter(h2counter) ".\0000a0\0000a0";
-    }
-    h3:before {
-      counter-increment: h3counter;
-      content: counter(h2counter) "."
-                counter(h3counter) ".\0000a0\0000a0";
-    }
-    h4:before {
-      counter-increment: h4counter;
-      content: counter(h2counter) "."
-                counter(h3counter) "."
-                counter(h4counter) ".\0000a0\0000a0";
-    }
-    h5:before {
-      counter-increment: h5counter;
-      content: counter(h2counter) "."
-                counter(h3counter) "."
-                counter(h4counter) "."
-                counter(h5counter) ".\0000a0\0000a0";
-    }
-    h6:before {
-      counter-increment: h6counter;
-      content: counter(h2counter) "."
-                counter(h3counter) "."
-                counter(h4counter) "."
-                counter(h5counter) "."
-                counter(h6counter) ".\0000a0\0000a0";
-    }
-</style>
-
-
 # LeetCode-Solution
-Java solutions to leetcode problems
+## Java solutions to leetcode problems
 
 1. Two Sum
 2. Add Two Numbers
@@ -91,6 +51,7 @@ Java solutions to leetcode problems
 103. Binary Tree Zigzag Level Order Traversal
 104. Maximum Depth of Binary Tree
 105. Construct Binary Tree from Preorder and Inorder Traversal
+108. Convert Sorted Array to Binary Search Tree
 111. Minimum Depth of Binary Tree
 112. Path Sum
 117. Populating Next Right Pointers in Each Node II
@@ -98,6 +59,7 @@ Java solutions to leetcode problems
 122. Best Time to Buy and Sell Stock II
 124. Binary Tree Maximum Path Sum
 125. Valid Palindrome
+127. Word Ladder
 128. Longest Consecutive Sequence
 129. Sum Root to Leaf Numbers
 134. Gas Station
@@ -105,6 +67,7 @@ Java solutions to leetcode problems
 137. Single Number II
 138. Copy List with Random Pointer
 139. Word Break
+144. Binary Tree Preorder Traversal
 150. Evaluate Reverse Polish Notation
 151. Reverse Words in a String
 162. Find Peak Element
@@ -215,8 +178,8 @@ Java solutions to leetcode problems
 2924. Find Champion II
 2925. Maximum Score After Applying Operations on a Tree
 
-MySQL solutions to Leetcode database problems  
-0. SQL
+## MySQL solutions to Leetcode database problems  
+1. SQL
 175. Combine Two Tables
 176. Second Highest Salary
 180. Consecutive Numbers
@@ -269,7 +232,7 @@ MySQL solutions to Leetcode database problems
 
 # Special Topics (4):
 
-## Basic Algorithms
+## 1. Basic Algorithms
 ### Sorting algorithm
 * Quicksort
 * Mergesort
@@ -308,7 +271,7 @@ MySQL solutions to Leetcode database problems
 * 260 Single Number III
 
 
-## Data Structure
+## 2. Data Structure
 ### Stack
 * 828 模拟栈
 * 150 Evaluate Reverse Polish Notation
@@ -331,7 +294,7 @@ MySQL solutions to Leetcode database problems
 ### Heap & Priority Queue
 
 
-## Number Theory
+## 3. Number Theory
 ### Combinatorics
 * Combination
 * Permutation
@@ -340,7 +303,7 @@ MySQL solutions to Leetcode database problems
 * 50 Pow(x, n)
 
 
-## Graph
+## 4. Graph
 ### Compute the Connectivity Matrix (Warshall Algorithm)
 * 2101 Detonate the Maximum Bombs
 ### Topological Sort
@@ -348,8 +311,8 @@ MySQL solutions to Leetcode database problems
 ### Dijkstra Algorithm
 
 
-## Advanced Algorithms
-# Dynamic Programming
+## 5. Advanced Algorithms
+###  Dynamic Programming
 * 279 Perfect Squares
 * 1187 Make Array Strictly Increasing
 

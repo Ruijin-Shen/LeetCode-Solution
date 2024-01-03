@@ -4,6 +4,7 @@
 1. Two Sum
 2. Add Two Numbers
 3. Longest Substring Without Repeating Characters
+6. Zigzag Conversion
 7. Reverse Integer
 11. Container With Most Water
 12. Integer to Roman
@@ -62,6 +63,8 @@
 127. Word Ladder
 128. Longest Consecutive Sequence
 129. Sum Root to Leaf Numbers
+130. Surrounded Regions
+133. Clone Graph
 134. Gas Station
 136. Single Number
 137. Single Number II
@@ -83,6 +86,7 @@
 207. Course Schedule
 208. Implement Template.Trie (Prefix Tree)
 209. Minimum Size Subarray Sum
+210. Course Schedule II
 214. Shortest Palindrome
 215. Kth Largest Element in an Array
 225. Implement Stack using Queues
@@ -148,6 +152,7 @@
 1870. Minimum Speed to Arrive on Time
 2013. Detect Squares
 2024. Maximize the Confusion of an Exam
+2046. Sort Linked List Already Sorted Using Absolute Values
 2090. K Radius Subarray Averages
 2101. Detonate the Maximum Bombs
 2305. Fair Distribution of Cookies

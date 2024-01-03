@@ -1,3 +1,5 @@
+package Solution.S;
+
 import java.util.*;
 
 public class SimplifyPath {

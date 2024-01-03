@@ -1,3 +1,5 @@
+package Solution.S;
+
 import Definition.TreeNode;
 
 public class SameTree {

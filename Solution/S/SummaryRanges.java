@@ -1,3 +1,5 @@
+package Solution.S;
+
 import java.util.ArrayList;
 import java.util.List;
 

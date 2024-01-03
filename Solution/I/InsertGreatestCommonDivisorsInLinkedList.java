@@ -1,3 +1,5 @@
+package Solution.I;
+
 import Definition.ListNode;
 
 public class InsertGreatestCommonDivisorsInLinkedList {

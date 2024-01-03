@@ -1,3 +1,5 @@
+package Solution.L;
+
 public class LexicographicallySmallestStringAfterSubstringOperation {
 }
 

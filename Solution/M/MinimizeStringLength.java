@@ -1,3 +1,5 @@
+package Solution.M;
+
 import java.util.HashSet;
 import java.util.stream.Collectors;
 

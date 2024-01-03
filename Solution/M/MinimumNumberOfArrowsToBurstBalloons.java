@@ -1,3 +1,5 @@
+package Solution.M;
+
 import java.util.*;
 
 public class MinimumNumberOfArrowsToBurstBalloons {

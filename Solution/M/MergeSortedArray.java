@@ -1,3 +1,5 @@
+package Solution.M;
+
 public class MergeSortedArray {
 }
 

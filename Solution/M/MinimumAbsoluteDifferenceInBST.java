@@ -1,3 +1,5 @@
+package Solution.M;
+
 import Definition.TreeNode;
 
 public class MinimumAbsoluteDifferenceInBST {

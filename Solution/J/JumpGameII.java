@@ -1,3 +1,5 @@
+package Solution.J;
+
 public class JumpGameII {
 }
 

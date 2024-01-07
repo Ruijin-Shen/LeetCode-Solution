@@ -1,7 +1,6 @@
+package Solution.N;
+
 import java.util.Arrays;
-import java.util.Deque;
-import java.util.HashMap;
-import java.util.LinkedList;
 
 public class NextGreaterElementII {
     public static void main(String[] args) {

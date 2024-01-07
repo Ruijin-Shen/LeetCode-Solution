@@ -1,3 +1,5 @@
+package Solution.N;
+
 import java.util.*;
 
 public class NumberOfIslands {

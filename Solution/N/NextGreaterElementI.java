@@ -1,3 +1,5 @@
+package Solution.N;
+
 import java.util.Arrays;
 import java.util.Deque;
 import java.util.HashMap;

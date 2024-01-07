@@ -1,3 +1,5 @@
+package Solution.N;
+
 public class NumberOfIncreasingPathsInAGrid {
 }
 

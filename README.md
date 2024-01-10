@@ -37,6 +37,7 @@
 68. Text Justification
 69. Sqrt(x)
 74. Search a 2D Matrix
+76. Minimum Window Substring
 77. Combinations
 78. Search in Rotated Sorted Array II
 80. Remove Duplicates from Sorted Array II
@@ -128,6 +129,7 @@
 859. Buddy Strings
 863. All Nodes Distance K in Binary Tree
 898. Bitwise ORs of Subarrays
+909. Snakes and Ladders
 956. Tallest Billboard
 1091. Shortest Path in Binary Matrix
 1109. Corporate Flight Bookings
@@ -137,6 +139,7 @@
 1187. Make Array Strictly Increasing
 1218. Longest Arithmetic Subsequence of Given Difference
 1232. Check If It Is a Straight Line
+1235. Maximum Profit in Job Scheduling
 1318. Minimum Flips to Make a OR b Equal to c
 1351. Count Negative Numbers in a Sorted Matrix
 1353. Maximum Number of Events That Can Be Attended
@@ -166,9 +169,11 @@
 2616. Minimize the Maximum Difference of Pairs
 2716. Minimize String Length
 2717. Semi-Ordered Permutation
+2718. Sum of Matrix After Queries
 2733. Neither Minimum nor Maximum
 2734. Lexicographically Smallest String After Substring Operation
 2735. Collecting Chocolates
+2736. Maximum Sum Queries
 2748. Number of Beautiful Pairs
 2749. Minimum Operations to Make the Integer Zero
 2750. Ways to Split Array Into Good Subarrays
@@ -184,7 +189,7 @@
 2925. Maximum Score After Applying Operations on a Tree
 
 ## MySQL solutions to Leetcode database problems
-175. Combine Two Tables
+1. Combine Two Tables
 176. Second Highest Salary
 180. Consecutive Numbers
 196. Delete Duplicate Emails

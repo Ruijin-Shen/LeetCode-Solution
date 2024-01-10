@@ -288,13 +288,13 @@
 * 830 单调栈
 * 496 Next Greater Element I
 * 503 Next Greater Element II
+* 2736 Maximum Sum Queries
 ### Queue
 * 829 模拟队列
 ### Monotonic Queue
 * 154 滑动窗口
 * 239 Sliding Window Maximum
 ### Circular Queue
-
 ### Trie
 * Trie
 ### Disjoint-Set Data Structure (Union–Find set)
@@ -313,11 +313,11 @@
 
 
 ## 4. Graph
-### Compute the Connectivity Matrix (Warshall Algorithm)
-* 2101 Detonate the Maximum Bombs
 ### Topological Sort
 * 207 Course Schedule
 ### Dijkstra Algorithm
+### Floyd-Warshall Algorithm
+* 2101 Detonate the Maximum Bombs
 
 
 ## 5. Advanced Algorithms

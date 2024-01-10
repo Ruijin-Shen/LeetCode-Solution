@@ -121,6 +121,7 @@
 556. Next Greater Element III
 646. Maximum Length of Pair Chain
 729. My Calendar I
+743. Network Delay Time
 744. Find Smallest Letter Greater Than Target
 767. Reorganize String
 802. Find Eventual Safe States
@@ -141,6 +142,7 @@
 1232. Check If It Is a Straight Line
 1235. Maximum Profit in Job Scheduling
 1318. Minimum Flips to Make a OR b Equal to c
+1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance
 1351. Count Negative Numbers in a Sorted Matrix
 1353. Maximum Number of Events That Can Be Attended
 1493. Longest Subarray of 1's After Deleting One Element
@@ -315,9 +317,13 @@
 ## 4. Graph
 ### Topological Sort
 * 207 Course Schedule
-### Dijkstra Algorithm
-### Floyd-Warshall Algorithm
+### Strongly Connected Components
+### Minimum Spanning Tree (Kruskal Algorithm and Prim Algorithm)
+### Single-Source Shortest Paths (Dijkstra Algorithm, DAG Algorithm, and Bellman-Ford Algorithm)
+* 743 Network Delay Time
+### All-Pairs Shortest Paths (Floyd-Warshall Algorithm)
 * 2101 Detonate the Maximum Bombs
+* 1334 Find the City With the Smallest Number of Neighbors at a Threshold Distance
 
 
 ## 5. Advanced Algorithms

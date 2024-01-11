@@ -1,3 +1,5 @@
+package Solution.T;
+
 import java.util.*;
 
 public class TextJustification {

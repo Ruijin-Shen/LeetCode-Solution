@@ -1,3 +1,5 @@
+package Solution.P;
+
 public class ProductOfArrayExceptSelf {
 }
 

@@ -1,3 +1,5 @@
+package Solution.P;
+
 import java.util.*;
 
 public class PopulatingNextRightPointersInEachNodeII {

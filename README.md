@@ -39,8 +39,8 @@
 74. Search a 2D Matrix
 76. Minimum Window Substring
 77. Combinations
-78. Search in Rotated Sorted Array II
 80. Remove Duplicates from Sorted Array II
+81. Search in Rotated Sorted Array II
 82. Remove Duplicates from Sorted List II
 88. Merge Sorted Array
 92. Reverse Linked List II
@@ -57,6 +57,7 @@
 111. Minimum Depth of Binary Tree
 112. Path Sum
 117. Populating Next Right Pointers in Each Node II
+120. Triangle
 121. Best Time to Buy and Sell Stock
 122. Best Time to Buy and Sell Stock II
 124. Binary Tree Maximum Path Sum
@@ -79,7 +80,7 @@
 168. Excel Sheet Column Title
 169. Majority Element
 173. Binary Search Tree Iterator
-183. Customers Who Never Order
+198. House Robber
 199. Binary Tree Right Side View
 200. Number of Islands
 201. Bitwise AND of Numbers Range
@@ -136,6 +137,7 @@
 1109. Corporate Flight Bookings
 1146. Snapshot Array
 1161. Maximum Level Sum of a Binary Tree
+1168. Optimize Water Distribution in a Village
 1171. Remove Zero Sum Consecutive Nodes from Linked List
 1187. Make Array Strictly Increasing
 1218. Longest Arithmetic Subsequence of Given Difference
@@ -149,6 +151,7 @@
 1502. Can Make Arithmetic Progression From Sequence
 1569. Number of Ways to Reorder Array to Get Same BST
 1575. Count All Possible Routes
+1584. Min Cost to Connect All Points
 1601. Maximum Number of Achievable Transfer Requests
 1607. Sellers With No Sales
 1711. Count Good Meals
@@ -194,6 +197,7 @@
 1. Combine Two Tables
 176. Second Highest Salary
 180. Consecutive Numbers
+183. Customers Who Never Order
 196. Delete Duplicate Emails
 197. Rising Temperature
 550. Game Play Analysis IV
@@ -319,6 +323,8 @@
 * 207 Course Schedule
 ### Strongly Connected Components
 ### Minimum Spanning Tree (Kruskal Algorithm and Prim Algorithm)
+* 1584 Min Cost to Connect All Points
+* 1168 Optimize Water Distribution in a Village
 ### Single-Source Shortest Paths (Dijkstra Algorithm, DAG Algorithm, and Bellman-Ford Algorithm)
 * 743 Network Delay Time
 ### All-Pairs Shortest Paths (Floyd-Warshall Algorithm)

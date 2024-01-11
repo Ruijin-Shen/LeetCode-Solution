@@ -1,3 +1,5 @@
+package Template;
+
 public class Trie {
     private TrieNode root;
 
@@ -67,5 +69,37 @@ class TrieNode{
 
     public boolean isEnd(){
         return isEnd;
+    }
+}
+
+class TrieArray{
+    private int[][] son;
+    private int[] count;
+    private int index;
+
+    TrieArray (int n){
+        son = new int[n][26];
+        count = new int[n];
+        index = 0; // 0 denotes root and null.
+    }
+
+    public void insert(String str){
+        int node = 0;
+        for(int i = 0; i < str.length(); i++){
+            int ch = str.charAt(i) - 'a';
+            if(son[node][ch] == 0) son[node][ch] = ++index;
+            node = son[node][ch];
+        }
+        count[node]++;
+    }
+
+    public int query(String str){
+        int node = 0;
+        for(int i = 0; i < str.length(); i++){
+            int ch = str.charAt(i) - 'a';
+            if(son[node][ch] == 0) return 0;
+            node = son[node][ch];
+        }
+        return count[node];
     }
 }

@@ -1,3 +1,5 @@
+package Solution.P;
+
 import java.util.Arrays;
 
 public class PutMarblesInBags {

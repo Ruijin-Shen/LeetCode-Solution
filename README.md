@@ -34,8 +34,10 @@
 61. Rotate List
 62. Unique Paths
 63. Unique Paths II
+64. Minimum Path Sum
 68. Text Justification
 69. Sqrt(x)
+72. Edit Distance
 74. Search a 2D Matrix
 76. Minimum Window Substring
 77. Combinations
@@ -84,6 +86,7 @@
 199. Binary Tree Right Side View
 200. Number of Islands
 201. Bitwise AND of Numbers Range
+202. Happy Number
 205. Isomorphic Strings
 207. Course Schedule
 208. Implement Template.Trie (Prefix Tree)
@@ -111,6 +114,7 @@
 378. Kth Smallest Element in a Sorted Matrix
 380. Insert Delete GetRandom O(1)
 383. Ransom Note
+392. Is Subsequence
 403. Frog Jump
 445. Add Two Numbers II
 452. Minimum Number of Arrows to Burst Balloons

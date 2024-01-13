@@ -13,6 +13,7 @@
 17. Letter Combinations of a Phone Number
 19. Remove Nth Node From End of List
 20. Valid Parentheses
+21. Merge Two Sorted Lists
 22. Generate Parentheses
 26. Remove Duplicates from Sorted Array
 27. Remove Element
@@ -46,6 +47,7 @@
 80. Remove Duplicates from Sorted Array II
 81. Search in Rotated Sorted Array II
 82. Remove Duplicates from Sorted List II
+86. Partition List
 88. Merge Sorted Array
 92. Reverse Linked List II
 94. Binary Tree Inorder Traversal
@@ -78,7 +80,8 @@
 139. Word Break
 141. Linked List Cycle
 144. Binary Tree Preorder Traversal
-150. Evaluate Reverse Polish Notation
+146. LRU Cache
+151. Evaluate Reverse Polish Notation
 151. Reverse Words in a String
 162. Find Peak Element
 167. Two Sum II - Input Array Is Sorted

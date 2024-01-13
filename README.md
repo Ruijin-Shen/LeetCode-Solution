@@ -12,6 +12,7 @@
 14. Longest Common Prefix
 17. Letter Combinations of a Phone Number
 19. Remove Nth Node From End of List
+20. Valid Parentheses
 22. Generate Parentheses
 26. Remove Duplicates from Sorted Array
 27. Remove Element
@@ -75,6 +76,7 @@
 137. Single Number II
 138. Copy List with Random Pointer
 139. Word Break
+141. Linked List Cycle
 144. Binary Tree Preorder Traversal
 150. Evaluate Reverse Polish Notation
 151. Reverse Words in a String

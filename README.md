@@ -30,6 +30,7 @@
 52. N-Queens II
 55. Jump Game
 56. Merge Intervals
+57. Insert Interval
 58. Length of Last Word
 61. Rotate List
 62. Unique Paths

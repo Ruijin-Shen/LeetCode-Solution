@@ -97,9 +97,10 @@
 202. Happy Number
 205. Isomorphic Strings
 207. Course Schedule
-208. Implement Template.Trie (Prefix Tree)
+208. Implement Trie (Prefix Tree)
 209. Minimum Size Subarray Sum
 210. Course Schedule II
+212. Word Search II
 214. Shortest Palindrome
 215. Kth Largest Element in an Array
 219. Contains Duplicate II
@@ -125,6 +126,7 @@
 383. Ransom Note
 392. Is Subsequence
 403. Frog Jump
+433. Minimum Genetic Mutation
 445. Add Two Numbers II
 452. Minimum Number of Arrows to Burst Balloons
 493. Reverse Pairs
@@ -206,6 +208,11 @@
 2923. Find Champion I
 2924. Find Champion II
 2925. Maximum Score After Applying Operations on a Tree
+3005. Count Elements With Maximum Frequency
+3006. Find Beautiful Indices in the Given Array I
+
+3008. Find Beautiful Indices in the Given Array II
+
 
 ## MySQL solutions to Leetcode database problems
 1. Combine Two Tables
@@ -291,6 +298,7 @@
 ### Knuth-Morris-Pratt Algorithm
 * KMP
 * 28 Find the Index of the First Occurrence in a String
+* 3008 Find Beautiful Indices in the Given Array II
 * 831 KMP字符串
 ### Bitwise Operation
 * 求n的第k位数字（k从0开始） ```n >> k & 1```
@@ -317,6 +325,7 @@
 ### Circular Queue
 ### Trie
 * Trie
+* 212 Word Search II
 ### Disjoint-Set Data Structure (Union–Find set)
 * DisjointSet
 * 547 Number of Provinces

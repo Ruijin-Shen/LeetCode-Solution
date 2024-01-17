@@ -20,6 +20,7 @@
 28. Find the Index of the First Occurrence in a String
 30. Substring with Concatenation of All Words
 33. Search in Rotated Sorted Array
+34. Find First and Last Position of Element in Sorted Array
 35. Search Insert Position
 36. Valid Sudoku
 39. Template.Combination Sum

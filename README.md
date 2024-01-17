@@ -20,6 +20,7 @@
 28. Find the Index of the First Occurrence in a String
 30. Substring with Concatenation of All Words
 33. Search in Rotated Sorted Array
+35. Search Insert Position
 36. Valid Sudoku
 39. Template.Combination Sum
 42. Trapping Rain Water
@@ -44,6 +45,7 @@
 74. Search a 2D Matrix
 76. Minimum Window Substring
 77. Combinations
+79. Word Search
 80. Remove Duplicates from Sorted Array II
 81. Search in Rotated Sorted Array II
 82. Remove Duplicates from Sorted List II
@@ -100,6 +102,7 @@
 208. Implement Trie (Prefix Tree)
 209. Minimum Size Subarray Sum
 210. Course Schedule II
+211. Design Add and Search Words Data Structure
 212. Word Search II
 214. Shortest Palindrome
 215. Kth Largest Element in an Array
@@ -210,7 +213,7 @@
 2925. Maximum Score After Applying Operations on a Tree
 3005. Count Elements With Maximum Frequency
 3006. Find Beautiful Indices in the Given Array I
-
+3007. Maximum Number That Sum of the Prices Is Less Than or Equal to K
 3008. Find Beautiful Indices in the Given Array II
 
 

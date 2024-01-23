@@ -32,6 +32,7 @@
 50. Pow(x, n)
 51. N-Queens
 52. N-Queens II
+53. Maximum Subarray
 55. Jump Game
 56. Merge Intervals
 57. Insert Interval
@@ -86,8 +87,9 @@
 141. Linked List Cycle
 144. Binary Tree Preorder Traversal
 146. LRU Cache
-151. Evaluate Reverse Polish Notation
+150. Evaluate Reverse Polish Notation
 151. Reverse Words in a String
+153. Find Minimum in Rotated Sorted Array
 162. Find Peak Element
 167. Two Sum II - Input Array Is Sorted
 168. Excel Sheet Column Title
@@ -152,6 +154,7 @@
 863. All Nodes Distance K in Binary Tree
 898. Bitwise ORs of Subarrays
 909. Snakes and Ladders
+918. Maximum Sum Circular Subarray
 956. Tallest Billboard
 1091. Shortest Path in Binary Matrix
 1109. Corporate Flight Bookings
@@ -216,6 +219,10 @@
 3006. Find Beautiful Indices in the Given Array I
 3007. Maximum Number That Sum of the Prices Is Less Than or Equal to K
 3008. Find Beautiful Indices in the Given Array II
+3014. Minimum Number of Pushes to Type Word I
+3015. Count the Number of Houses at a Certain Distance I
+3016. Minimum Number of Pushes to Type Word II
+3017. Count the Number of Houses at a Certain Distance II
 
 
 ## MySQL solutions to Leetcode database problems

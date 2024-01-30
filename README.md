@@ -94,6 +94,7 @@
 167. Two Sum II - Input Array Is Sorted
 168. Excel Sheet Column Title
 169. Majority Element
+172. Factorial Trailing Zeroes
 173. Binary Search Tree Iterator
 198. House Robber
 199. Binary Tree Right Side View
@@ -223,6 +224,10 @@
 3015. Count the Number of Houses at a Certain Distance I
 3016. Minimum Number of Pushes to Type Word II
 3017. Count the Number of Houses at a Certain Distance II
+3019. Number of Changing Keys
+3020. Find the Maximum Number of Elements in Subset
+3021. Alice and Bob Playing Flower Game
+3022. Minimize OR of Remaining Elements Using Operations
 
 
 ## MySQL solutions to Leetcode database problems
@@ -370,4 +375,3 @@
 ###  Dynamic Programming
 * 279 Perfect Squares
 * 1187 Make Array Strictly Increasing
-

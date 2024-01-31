@@ -199,6 +199,7 @@
 2716. Minimize String Length
 2717. Semi-Ordered Permutation
 2718. Sum of Matrix After Queries
+2719. Count of Integers
 2733. Neither Minimum nor Maximum
 2734. Lexicographically Smallest String After Substring Operation
 2735. Collecting Chocolates
@@ -371,7 +372,9 @@
 * 1334 Find the City With the Smallest Number of Neighbors at a Threshold Distance
 
 
-## 5. Advanced Algorithms
-###  Dynamic Programming
+## 5. Dynamic Programming
+###  DP Basic
 * 279 Perfect Squares
 * 1187 Make Array Strictly Increasing
+### Digit DP
+* 2719 Count of Integers

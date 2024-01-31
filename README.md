@@ -116,6 +116,7 @@
 226. Invert Binary Tree
 228. Summary Ranges
 230. Kth Smallest Element in a BST
+231. Power of Two
 238. Product of Array Except Self
 239. Sliding Window Maximum
 240. Search a 2D Matrix II
@@ -324,6 +325,7 @@
 * 136 Single Number
 * 137 Single Number II
 * 260 Single Number III
+* 231 Power of Two
 
 
 ## 2. Data Structure

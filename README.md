@@ -118,6 +118,9 @@
 228. Summary Ranges
 230. Kth Smallest Element in a BST
 231. Power of Two
+234. Palindrome Linked List
+235. Lowest Common Ancestor of a Binary Search Tree
+236. Lowest Common Ancestor of a Binary Tree
 238. Product of Array Except Self
 239. Sliding Window Maximum
 240. Search a 2D Matrix II
@@ -232,6 +235,10 @@
 3020. Find the Maximum Number of Elements in Subset
 3021. Alice and Bob Playing Flower Game
 3022. Minimize OR of Remaining Elements Using Operations
+3028. Ant on the Boundary
+3029. Minimum Time to Revert Word to Initial State I
+3030. Find the Grid of Region Average
+3031. Minimum Time to Revert Word to Initial State II
 
 
 ## MySQL solutions to Leetcode database problems

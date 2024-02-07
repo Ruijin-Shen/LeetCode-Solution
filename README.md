@@ -133,11 +133,17 @@
 303. Range Sum Query - Immutable
 304. Range Sum Query 2D - Immutable
 322. Coin Change
+326. Power of Three
+342. Power of Four
 373. Find K Pairs with Smallest Sums
+377. Combination Sum IV
 378. Kth Smallest Element in a Sorted Matrix
 380. Insert Delete GetRandom O(1)
 383. Ransom Note
+387. First Unique Character in a String
+388. Longest Absolute File Path
 392. Is Subsequence
+393. UTF-8 Validation
 403. Frog Jump
 433. Minimum Genetic Mutation
 445. Add Two Numbers II

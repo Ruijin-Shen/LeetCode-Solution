@@ -336,7 +336,7 @@
 * 831 KMP字符串
 ### Bitwise Operation
 * 求n的第k位数字（k从0开始） ```n >> k & 1```
-* ```lowbit(n) = n & -n```
+* ```lowbit(n) = n & -n;```
 * 136 Single Number
 * 137 Single Number II
 * 260 Single Number III

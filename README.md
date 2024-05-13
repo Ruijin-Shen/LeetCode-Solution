@@ -282,6 +282,7 @@
 1378. Replace Employee ID With The Unique Identifier
 1398. Customers Who Bought Products A and B but Not C
 1484. Group Sold Products By The Date
+1492. The kth Factor of n
 1517. Find Users With Valid E-Mails
 1527. Patients With a Condition
 1581. Customer Who Visited but Did Not Make Any Transactions

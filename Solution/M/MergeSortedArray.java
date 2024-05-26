@@ -3,6 +3,10 @@ package Solution.M;
 public class MergeSortedArray {
 }
 
+/**
+ * <p> Time Complexity: O(M + N).
+ * <p> Space Complexity: O(1).
+ */
 class Solution88 {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
         int i = m - 1, j = n - 1, k = m + n - 1;

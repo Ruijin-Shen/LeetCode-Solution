@@ -1,2 +1,2 @@
-SELECT firstName, LastName, city, state
-FROM Person FULL OUTER JOIN Address ON Person.personId = Address.personId;
+SELECT firstName, lastName, city, state
+FROM Person LEFT JOIN Address ON Person.personId = Address.personId;

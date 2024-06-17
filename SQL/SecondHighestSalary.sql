@@ -1,5 +1,5 @@
 SELECT
-    (SELECT DISTINCT id, salary
+    (SELECT DISTINCT salary
      FROM Employee
      ORDER BY salary DESC
      LIMIT 1 OFFSET 1) AS SecondHighestSalary;
@@ -7,8 +7,8 @@ SELECT
 
 SELECT
     IFNULL(
-            (SELECT DISTINCT Salary
+            (SELECT DISTINCT salary
              FROM Employee
-             ORDER BY Salary DESC
+             ORDER BY salary DESC
              LIMIT 1 OFFSET 1),
             NULL) AS SecondHighestSalary;

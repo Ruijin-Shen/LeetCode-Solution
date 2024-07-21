@@ -172,6 +172,7 @@
 956. Tallest Billboard
 1091. Shortest Path in Binary Matrix
 1109. Corporate Flight Bookings
+1135. Connecting Cities With Minimum Cost
 1146. Snapshot Array
 1161. Maximum Level Sum of a Binary Tree
 1168. Optimize Water Distribution in a Village

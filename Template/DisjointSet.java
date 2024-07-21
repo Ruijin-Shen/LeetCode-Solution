@@ -1,5 +1,7 @@
 package Template;
 
+import java.util.Arrays;
+
 /**
  * <p> disjoint-set data structure, union–find data structure,
  * merge–find set
@@ -42,5 +44,9 @@ public class DisjointSet {
             parent[index] = find(parent[index]);
         }
         return parent[index];
+    }
+
+    public int countComponent() {
+        return (int) Arrays.stream(parent).map(this::find).distinct().count();
     }
 }

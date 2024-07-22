@@ -187,6 +187,7 @@
 1353. Maximum Number of Events That Can Be Attended
 1493. Longest Subarray of 1's After Deleting One Element
 1502. Can Make Arithmetic Progression From Sequence
+1514. Path with Maximum Probability
 1569. Number of Ways to Reorder Array to Get Same BST
 1575. Count All Possible Routes
 1584. Min Cost to Connect All Points
@@ -285,7 +286,6 @@
 1398. Customers Who Bought Products A and B but Not C
 1484. Group Sold Products By The Date
 1492. The kth Factor of n
-1514. Path with Maximum Probability
 1517. Find Users With Valid E-Mails
 1527. Patients With a Condition
 1581. Customer Who Visited but Did Not Make Any Transactions
@@ -388,7 +388,7 @@
 * 1135 Connecting Cities With Minimum Cost
 * 1584 Min Cost to Connect All Points
 * 1168 Optimize Water Distribution in a Village
-### Single-Source Shortest Paths (Dijkstra Algorithm, DAG Algorithm, and Bellman-Ford Algorithm)
+### Single-Source Shortest Paths (Dijkstra Algorithm, DAG Algorithm, Bellman-Ford Algorithm, and SPFA)
 * 743 Network Delay Time
 * 1514 Path with Maximum Probability
 ### All-Pairs Shortest Paths (Floyd-Warshall Algorithm)

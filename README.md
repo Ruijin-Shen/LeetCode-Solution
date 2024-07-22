@@ -285,6 +285,7 @@
 1398. Customers Who Bought Products A and B but Not C
 1484. Group Sold Products By The Date
 1492. The kth Factor of n
+1514. Path with Maximum Probability
 1517. Find Users With Valid E-Mails
 1527. Patients With a Condition
 1581. Customer Who Visited but Did Not Make Any Transactions
@@ -384,10 +385,12 @@
 * 207 Course Schedule
 ### Strongly Connected Components
 ### Minimum Spanning Tree (Kruskal Algorithm and Prim Algorithm)
+* 1135 Connecting Cities With Minimum Cost
 * 1584 Min Cost to Connect All Points
 * 1168 Optimize Water Distribution in a Village
 ### Single-Source Shortest Paths (Dijkstra Algorithm, DAG Algorithm, and Bellman-Ford Algorithm)
 * 743 Network Delay Time
+* 1514 Path with Maximum Probability
 ### All-Pairs Shortest Paths (Floyd-Warshall Algorithm)
 * 2101 Detonate the Maximum Bombs
 * 1334 Find the City With the Smallest Number of Neighbors at a Threshold Distance

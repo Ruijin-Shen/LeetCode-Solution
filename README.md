@@ -1,5 +1,5 @@
 # LeetCode-Solution
-## Java solutions to leetcode problems
+## Java solutions to Leetcode problems
 
 1. Two Sum
 2. Add Two Numbers

@@ -7,58 +7,34 @@ public class DetonateTheMaximumBombs {
 
 class Solution2101_Warshall {
     public int maximumDetonation(int[][] bombs) {
-        // Calculate the adjacency matrix.
-        bombs = new int[][]{{1,1,100000}, {100000,100000,1}};
-        int num = bombs.length;
-        int[][] adj = new int[num][num];
-        int maxCount = 0;
-
-        for(int i = 0; i < num; i++){
-            for(int j =0; j < num; j++){
-                if(i != j && Detonate(bombs[i], bombs[j])){
-                    adj[i][j] = 1;
-                }else{
-                    adj[i][j] = 0;
+        int n = bombs.length;
+        boolean[][] d = new boolean[n][n];
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n; j++) {
+                int[] x = bombs[i], y = bombs[j];
+                if (i == j || ((long)x[0] - y[0]) * (x[0] - y[0]) + ((long)x[1] - y[1]) * (x[1] - y[1]) <= (long)x[2] * x[2]) {
+                    d[i][j] = true;
                 }
             }
         }
 
-        // Calculate the connectivity matrix using Warshall algorithm.
-        warshall(adj);
+        for (int k = 0; k < n; k++) {
+            for (int i = 0; i < n; i++) {
+                for (int j = 0; j < n; j++) {
+                    d[i][j] = d[i][j] || (d[i][k] && d[k][j]);
+                }
+            }
+        }
 
-        for(int i = 0; i < num; i++){
+        int result = 0;
+        for (int i = 0; i < n; i++) {
             int count = 0;
-            adj[i][i] = 1;
-            for(int j = 0; j < num; j++){
-                count += adj[i][j];
+            for (int j = 0; j < n; j++) {
+                if (d[i][j]) count++;
             }
-            if(count > maxCount){
-                maxCount = count;
-            }
+            result = Math.max(count, result);
         }
-
-        return maxCount;
-    }
-
-    private boolean Detonate(int[] i, int[] j){
-        return (square(i[0] - j[0]) + square(i[1] - j[1])) <= square(i[2]);
-    }
-
-    private long square(int x){
-        return (long)x * x;
-    }
-
-    private void warshall(int[][] adjacency){
-        int n = adjacency.length;
-        for(int j = 0; j < n; j++){
-            for(int i = 0; i < n; i++){
-                if(adjacency[i][j] == 1){
-                    for(int k = 0; k < n; k++){
-                        adjacency[i][k] = adjacency[i][k] | adjacency[j][k];
-                    }
-                }
-            }
-        }
+        return result;
     }
 }
 
